@@ -1,0 +1,47 @@
+.slide-slide {
+  align-items: center;
+  justify-content: center;
+}
+.slide-max-wdith {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.slide-text {
+  color: var(--dl-color-scheme-white);
+}
+.slide-root-class-name {
+  background-color: #ff9b1d;
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5a4fd61a80bd5e2790171278/1516731112862-1YG2S3P0H13FZ84NDLYT/5.jpg?format=2500w);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.slide-root-class-name1 {
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5a4fd61a80bd5e2790171278/1516731112862-1YG2S3P0H13FZ84NDLYT/5.jpg?format=2500w);
+  background-color: #15bd19;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.slide-root-class-name2 {
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5a4fd61a80bd5e2790171278/1516731112862-1YG2S3P0H13FZ84NDLYT/5.jpg?format=2500w);
+  background-color: var(--dl-color-scheme-pink);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.slide-root-class-name3 {
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5a4fd61a80bd5e2790171278/1516731112862-1YG2S3P0H13FZ84NDLYT/5.jpg?format=2500w);
+  background-color: var(--dl-color-scheme-lightblue);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.slide-root-class-name4 {
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5a4fd61a80bd5e2790171278/1516731112862-1YG2S3P0H13FZ84NDLYT/5.jpg?format=2500w);
+  background-color: var(--dl-color-scheme-darkblue);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
